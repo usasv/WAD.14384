@@ -1,7 +1,7 @@
 # WAD.14384
 
 This application was developed for Web Application module, as coursework portfolio project @ WIUT by student ID: 00014384
-Topic: Events Manager
+##Topic: Events Manager
 
 ## Prerequisites
 - .NET Core SDK
